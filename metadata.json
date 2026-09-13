@@ -1,0 +1,6 @@
+{
+  "name": "StreamFlix",
+  "description": "Netflix-inspired video streaming application with episodic media player, guest-first cloud sync, and real-time CMS admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
